@@ -1,0 +1,39 @@
+.btnclass
+{
+background: #ff55ff3b;
+    color: #2b2625;
+    height: 61px;
+    width: 65px;
+    font-size: 36px;
+    border-color: unset;
+}
+#task_ip
+{
+height: 63px;
+    width: 444px;
+        background: #ff980080;
+    color: #0c0b0cb5;
+    border: 2px solid #1b2661;
+    border-radius: 35px;
+    text-align: center;
+    font-size: 35px;
+    font-style: Oblique;
+	
+}
+
+#task_ip:focus
+{
+	outline: 0;
+}
+
+.abc
+{
+color: black;
+font-size:large;
+}
+#del
+{
+  font-size: 20px;
+  border-color: unset;
+  background: #ff55ff3b;
+}
